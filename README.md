@@ -163,6 +163,23 @@ Below are the visualiztions created for the data set ranging from pivot tables, 
 ### Project 2: Customer Segmentation for a Subscription Service
 ---
 
+## Project Outline
+[Project Overview](Project-Overview)
+
+[Data Sources](Data-Sources)
+
+[Tools Used](Tools-Used)
+
+[Data cleaning and Preparation](Data-cleaning-and-Preparation)
+
+[Exploratory Data Analysis](Exploratory-Data-Analysis)
+
+[Data Analysis](Data-Analysis)
+
+[Data Visualization](Data-Visualization)
+
+---
+
 #### Project Overview
 This project aims to analyze customer data for a subscription service identifying segments and trends. By analyzing this data I seek to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals and then produce an interactive dashboard that highlights these findings that will enable me to tell compelling stories
 
@@ -281,3 +298,16 @@ order by Total_Subscription
 #### Data Visualization
 
 Below are the visualiztions created for the data set ranging from pivot tables, to Power BI visualization dashboards These visuals shows and highlights key insights found in excel and SQL. The dashboard shows the subscription trends including the Total number of canceled subscriptions, monthly subscription growth rate, and the total revenue from each subscription type. It also highlights that the Basic subscription type is the most paid-for subscription with a total revenue of 33,776,735. The subscription growth rate indicates that subscriptions were higher at the beginning of the year and began to decline in August. 
+
+
+![Average sub duration (Customer data)](https://github.com/user-attachments/assets/6b9ebf2f-f461-4f51-b321-3dbd6c54ca1d)
+
+
+![Pivot 1 (Customer Data)](https://github.com/user-attachments/assets/79121485-81a2-4d72-9a6c-461b41bea470)
+
+
+![Pivot 2 (Customer Data)](https://github.com/user-attachments/assets/6377b84f-68e6-4963-b004-4f8666ecc973)
+
+
+![Dashboard (Customer Data)](https://github.com/user-attachments/assets/506e0205-f405-4a0d-97e9-5fb1ef4074dd)
+
