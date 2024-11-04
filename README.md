@@ -143,6 +143,15 @@ order by Sales
 
 Below are the visualiztions created for the data set ranging from pivot tables, to Power BI visualization dashboards These visuals shows and highlights key insights found in excel and SQL. The visuals show the sales overview of each product highlighting the maximun, average and total sales per product and the total sale made from each region showcasing the top product and region with the most revenue
 
+- Excel sheet showing average sales per product and total revenue by region
+
 ![Sales data average sales function](https://github.com/user-attachments/assets/87e0dd38-e476-4db9-a256-490f51dd7046)
+
+Pivot table showing 
+
+![Pivot (Sales data)](https://github.com/user-attachments/assets/76cd9566-83f1-4945-af30-d6d5a9c31e36)
+
+![Dashboard (Sales Data)](https://github.com/user-attachments/assets/cfa29c4a-6e02-4b7c-a95c-bcfff79c4118)
+
 
 
