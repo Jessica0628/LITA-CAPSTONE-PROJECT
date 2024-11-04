@@ -7,3 +7,13 @@ This project aims to generate insight and analyze the sales performance of a ret
 
 #### Data Sources
 The Source of the data used is LITA Capstone Project. xlsx, gotten from CANVAS INSTRUCTURE
+
+#### Tools Used
+- Microsoft Excel
+   1. For data cleaning
+   2. Analysis
+   3. and visualization
+- SQL – Structured Query Language for querying of data
+- Power BI for visualization of data
+- GitHub for portfolio building
+
