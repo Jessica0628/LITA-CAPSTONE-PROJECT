@@ -52,3 +52,6 @@ also used the SUMIF function to get the total sales per region
 =SUMIF(D:D,D4,H:H)
 ```
 
+#### Data Visuaization
+
+![Sales data average sales function](https://github.com/user-attachments/assets/87e0dd38-e476-4db9-a256-490f51dd7046)
