@@ -277,3 +277,7 @@ from [dbo].[Customer data]
 Group by Canceled
 order by Total_Subscription
 ```
+
+#### Data Visualization
+
+Below are the visualiztions created for the data set ranging from pivot tables, to Power BI visualization dashboards These visuals shows and highlights key insights found in excel and SQL. The dashboard shows the subscription trends including the Total number of canceled subscriptions, monthly subscription growth rate, and the total revenue from each subscription type. It also highlights that the Basic subscription type is the most paid-for subscription with a total revenue of 33,776,735. The subscription growth rate indicates that subscriptions were higher at the beginning of the year and began to decline in August. 
